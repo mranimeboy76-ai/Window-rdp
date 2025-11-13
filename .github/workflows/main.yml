@@ -34,4 +34,3 @@ Number = [char[]](48..57) # 0-9
 Special = ([char[]](33..47) + [char[]](58..64) +
 [char[]](91..96) + [char[]](123..126)) # Special characters
 }
-$rawPassword = @()
